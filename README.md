@@ -34,6 +34,7 @@ A high-performance, cyber-cloud themed portfolio website engineered for **Anshum
 
 ### 💼 4. Deployed Projects Showcase
 * **Interactive Cloud Infrastructure Portfolio** ([Live Site](https://anshuman160.github.io/my-portfolio/)) — Next.js, GitHub Actions CI/CD, Edge Deployment.
+* **Grandmaster Web Chess & Minimax AI** ([Play Live](https://anshuman160.github.io/chess-game/)) — Vanilla JS (ES6+), Minimax Engine, Alpha-Beta Pruning, Web Audio API.
 * **IAESCON 2026 Official Web Portal** — Responsive conference portal built for the 27th Annual Conference of IAES (*Classified as per client request*).
 * **Sharda Foundation Website Deployment** ([Live Site](https://sharda-foundation.onrender.com/)) — Tailwind CSS static web app deployed on Render with GitHub build triggers.
 * **Cancer Awareness Medical Bot** ([Live Site](https://medical-bot-on8l.onrender.com)) — Python & Flask conversational AI tool with custom NLP logic layer.

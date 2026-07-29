@@ -44,9 +44,10 @@ function initTerminal() {
       Languages     : Python, JavaScript, HTML5, CSS3, Tailwind, Bootstrap`,
 
     projects: `1. <strong>Cloud Infra Portfolio</strong> : https://anshuman160.github.io/my-portfolio/<br/>
-      2. <strong>IAESCON 2026 Portal</strong> : [Classified as per client request]<br/>
-      3. <strong>Sharda Foundation Site</strong> : https://sharda-foundation.onrender.com<br/>
-      4. <strong>Cancer Medical AI Bot</strong> : https://medical-bot-on8l.onrender.com`,
+      2. <strong>Web Chess Game & Minimax AI</strong> : https://anshuman160.github.io/chess-game/<br/>
+      3. <strong>IAESCON 2026 Portal</strong> : [Classified as per client request]<br/>
+      4. <strong>Sharda Foundation Site</strong> : https://sharda-foundation.onrender.com<br/>
+      5. <strong>Cancer Medical AI Bot</strong> : https://medical-bot-on8l.onrender.com`,
 
     certs: `• Google Cloud Technical Series (April 2025)<br/>
       • Google Cloud Digital Leader Prep (LinkedIn, April 2024)<br/>
